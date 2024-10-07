@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel\\Hotel.csproj": {}
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel\\Hotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel\\Hotel.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel\\Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel\\Hotel.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel\\Hotel.csproj",
         "projectName": "Hotel",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel\\Hotel.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel\\Hotel.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\Hotel_Buisness.csproj": {
-                "projectPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\Hotel_Buisness.csproj"
+              "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\Hotel_Buisness.csproj": {
+                "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\Hotel_Buisness.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\Hotel_Buisness.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\Hotel_Buisness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\Hotel_Buisness.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\Hotel_Buisness.csproj",
         "projectName": "Hotel_Buisness",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\Hotel_Buisness.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\Hotel_Buisness.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_Buisness\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_Buisness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\Hotel_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\Hotel_DataAccess.csproj"
+              "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\Hotel_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\Hotel_DataAccess.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\Hotel_DataAccess.csproj": {
+    "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\Hotel_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\Hotel_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\Hotel_DataAccess.csproj",
         "projectName": "Hotel_DataAccess",
-        "projectPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\Hotel_DataAccess.csproj",
+        "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\Hotel_DataAccess.csproj",
         "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL PRO\\Videos\\Hotel Management System _Server Side On .net Core\\Hotel_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Hotel Management System  03-09-2024\\Version Back-End Server Side.(.net Core)\\Hotel_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
